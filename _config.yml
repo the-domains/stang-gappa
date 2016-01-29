@@ -1,0 +1,14 @@
+layout_spectrum: 0.09856631
+color:
+  saturation: 0.4934074
+  lightness: 0.5840276
+  brandStrength: 1
+  brandColors:
+    - '#040101'
+    - '#4B2F17'
+    - '#878889'
+    - '#CF8841'
+    - '#D8C588'
+  rhythmicContrast: 0.4767025
+typography_spectrum: 0.5089605
+name: Stang Gappa
