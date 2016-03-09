@@ -1,14 +1,29 @@
+name: Stang Gappa
+favicon: null
 layout_spectrum: 0.09856631
+typography_spectrum: 0.5089605
+title: Strategy and Marketing for Sustainable Growth
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.4934074
-  lightness: 0.5840276
-  brandStrength: 1
   brandColors:
     - '#040101'
     - '#4B2F17'
     - '#878889'
     - '#CF8841'
     - '#D8C588'
+  brandStrength: 1
+  lightness: 0.5840276
+  saturation: 0.4934074
   rhythmicContrast: 0.4767025
-typography_spectrum: 0.5089605
-name: Stang Gappa
+purpose: []
