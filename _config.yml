@@ -1,6 +1,6 @@
 name: Stang Gappa
 favicon: null
-layout_spectrum: 0.48792
+layout_spectrum: 0
 typography_spectrum: 0.69177
 title: Strategy and Marketing for the Small Business Warrior
 cta:
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
+    - '#cdccce'
+    - '#023467'
+    - '#ffcd07'
     - '#ffffff'
-    - '#56bffe'
-    - '#50525b'
-    - '#9b0303'
-    - '#cc4e02'
-  brandStrength: 1
+    - '#a1a1a1'
+  brandStrength: 0.3125
   lightness: 1
-  saturation: 0
-  rhythmicContrast: 0
+  saturation: 0.125
+  rhythmicContrast: 1
 purpose: []
